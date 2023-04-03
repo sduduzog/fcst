@@ -9,5 +9,12 @@
 		"nodeGypDependencies": true,
 		"version": "lts"
 	}
+},
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"Shopify.ruby-lsp"
+		]
+	}
 }
 }
