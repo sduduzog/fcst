@@ -1,6 +1,7 @@
 FROM mcr.microsoft.com/devcontainers/ruby:0-3.1
 
-# Install Rails
+USER vscode
+
 RUN gem install rails webdrivers 
 
 # Default value to allow debug server to serve content over GitHub Codespace's port forwarding service
