@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/ruby:0-3.1
+FROM mcr.microsoft.com/devcontainers/ruby:3.2
 
 USER vscode
 
