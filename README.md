@@ -1,5 +1,5 @@
-# fcst
-The To-do list for minimalists
+# OETA (Over Engineered Task App)
+The To-do list for developers. We only build features when we need them!
 ## Stack
 - Ruby on Rails
 - Postgres 15
