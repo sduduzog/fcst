@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/ruby:0-3.1-bullseye
+FROM mcr.microsoft.com/devcontainers/ruby:0-3.1
 
 # Install Rails
 RUN gem install rails webdrivers 
